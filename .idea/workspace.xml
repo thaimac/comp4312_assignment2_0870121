@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="aacc502b-070e-4b82-a666-af98760d0e2b" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/app.yaml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/storage_upload_files_sln.py" beforeDir="false" afterPath="$PROJECT_DIR$/storage_upload_files_sln.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectId" id="1iYyOtSUfy44G4YUtopo98OAElj" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
+  </component>
+  <component name="RunManager" selected="Python.storage_list_buckets">
+    <configuration default="true" type="PythonConfigurationType" factoryName="Python">
+      <module name="assignment2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="&quot;comp4312-cloud-computing-438ce7b08a47.json&quot;" />
+      </envs>
+      <option name="SDK_HOME" value="D:\Anaconda3\python.exe" />
+      <option name="WORKING_DIRECTORY" value="" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="storage_list_buckets" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name=" GOOGLE_APPLICATION_CREDENTIALS" value="&quot;comp4312-cloud-computing-438ce7b08a47.json&quot;" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage_list_buckets.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="storage_upload_files_sln" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="assignment2" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+        <env name="GOOGLE_APPLICATION_CREDENTIALS" value="&quot;comp4312-cloud-computing-438ce7b08a47.json&quot;" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/storage_upload_files_sln.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.storage_upload_files_sln" />
+      <item itemvalue="Python.storage_list_buckets" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.storage_upload_files_sln" />
+        <item itemvalue="Python.storage_list_buckets" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aacc502b-070e-4b82-a666-af98760d0e2b" name="Default Changelist" comment="" />
+      <created>1602098790754</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1602098790754</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2334" y="-134" width="1090" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1602176215580">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="2334" y="-134" width="1090" height="714" key="#com.intellij.execution.impl.EditConfigurationsDialog/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602176215580" />
+    <state x="2746" y="-22" key="EnvironmentVariablesDialog" timestamp="1602103511884">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="2746" y="-22" key="EnvironmentVariablesDialog/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602103511884" />
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom" timestamp="1602173752937">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.bottom/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752937" />
+    <state width="1899" height="348" key="GridCell.Tab.0.center" timestamp="1602173752937">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.center/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752937" />
+    <state width="1899" height="348" key="GridCell.Tab.0.left" timestamp="1602173752937">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.left/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752937" />
+    <state width="1899" height="348" key="GridCell.Tab.0.right" timestamp="1602173752937">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.0.right/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752937" />
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom" timestamp="1602173752938">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.bottom/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752938" />
+    <state width="1899" height="348" key="GridCell.Tab.1.center" timestamp="1602173752938">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.center/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752938" />
+    <state width="1899" height="348" key="GridCell.Tab.1.left" timestamp="1602173752937">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.left/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752937" />
+    <state width="1899" height="348" key="GridCell.Tab.1.right" timestamp="1602173752938">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state width="1899" height="348" key="GridCell.Tab.1.right/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602173752938" />
+    <state x="2381" y="-144" key="SettingsEditor" timestamp="1602176385412">
+      <screen x="1920" y="-309" width="1920" height="1040" />
+    </state>
+    <state x="2381" y="-144" key="SettingsEditor/1920.-309.1920.1040/0.0.1920.1040@1920.-309.1920.1040" timestamp="1602176385412" />
+  </component>
+</project>
